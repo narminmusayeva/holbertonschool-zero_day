@@ -1,0 +1,13 @@
+git config
+git init
+git clone
+git add
+git commiy
+git diff
+git reset
+git status
+gir rm
+git show
+git merge
+git pull
+git push
